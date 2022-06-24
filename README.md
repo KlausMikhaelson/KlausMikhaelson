@@ -1,4 +1,4 @@
-<h1 id="header" align ="center">Hi there! 👋</h1>
+<!-- <h1 id="header" align ="center">Hi there! 👋</h1> -->
 
 
 <!-- **KlausMikhaelson/KlausMikhaelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,11 +15,14 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
+
+<h1 align="center">Hi 👋, I'm Satyam</h1>
+<h3 align="center">A passionate aspiring full stack developer</h3>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">A passionate aspiring full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klausmikhaelson&label=Profile%20views&color=0e75b6&style=flat" alt="klausmikhaelson" /> </p>
 
