@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **satyamsingh5076@gmail.com**
 
-- ⚡ Fun fact **I sleep 6 hrs a day**
+- ⚡ Fun fact **I was born on earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
