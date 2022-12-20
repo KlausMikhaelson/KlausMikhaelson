@@ -7,3 +7,6 @@
 - I started learning to code from the last week of march so incase you wanna see my journey than you're on the right place ! go check it out !
 - I am currently working on a 3D game on the web since I like to play games without downloading them and making one to play is the most interesting thing I can do right now.
 - If you want to work or collaborate with me than just shoot me a dm on twitter `@__Klaus_31452` or on discord `@Klausss#7531`
+- Here are some stats excluding Jupyter Notebook since it takes over more than 70% ! <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausMikhaelson&hide=Jupyter%20Notebook)](https://github.com/KlausMikhaelson/github-readme-stats)
+
