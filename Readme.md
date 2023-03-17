@@ -1,5 +1,6 @@
 ## Hello `@everyone` !
 ## I am Satyam an upcoming CS major student at university of regina in canada.
+- I am currently working as a backend developer intern @Froker.
 - I am a developer and love to build interesting stuffs.
 - I mostly work as a full stack developer i.e. both frontend and backend.
 - I even have some experience of working with technologies like ML and web3.
