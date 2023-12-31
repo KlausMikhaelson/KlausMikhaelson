@@ -1,7 +1,7 @@
 ## Hello `@everyone` !
 ## I am Satyam Singh.
 - I am currently working as a software developer @ethereum-push-notification-service.
-- My recent hack that I've been working on: `http://devmatch.tech`
+- My recent hack that I've been working on: `https://devmatch.tech`
 - I am a CS major freshman at University of Regina.
 - I am exploring `web3` and `LLMs` at the moment.
 - I am a developer and love to build interesting stuffs.
