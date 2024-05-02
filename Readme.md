@@ -1,7 +1,7 @@
 ## Hello `@everyone` !
 ## I am Satyam Singh.
-- I am currently working as a software developer <b>@Push-Protocol</b>.
-- I am an upcoming Junior full stack developer intern <b>@FCC</b>
+- I am currently working as a Junior Full Stack Developer intern <b>@FCC</b>.
+- Previously worked at <b>@PUSH-PROTOCOL</b>
 - My recent hack that I've been working on: [DevMatch](http://devvvmatch.vercel.app) .
 - I am a CS major freshman at University of Regina.
 - I am exploring `web3` and `LLMs` at the moment.
