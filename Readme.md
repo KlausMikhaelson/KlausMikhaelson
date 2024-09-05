@@ -1,7 +1,7 @@
 ## Hello `@everyone` !
 ## I am Satyam Singh.
-- I am currently working as a Junior Full Stack Developer intern <b>@FCC</b>.
-- Previously worked at <b>@PUSH-PROTOCOL</b>
+- I am currently working as a Junior Full Stack Developer intern <b>@OffStreetparking</b>.
+- Previously worked at <b>@FCC/FAC && @PUSH-PROTOCOL</b>
 - My recent hack that I've been working on: [DevMatch](http://devvvmatch.vercel.app) .
 - I am a CS major freshman at University of Regina.
 - I am the co-founder of <b>SKAAP</b>.
