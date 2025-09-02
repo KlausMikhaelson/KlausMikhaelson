@@ -1,7 +1,7 @@
 ## Hello `@everyone` !
 ## I am Satyam Singh.
-- I am currently working as a Junior Full Stack Developer <b>@OffStreetparking</b>.
-- Previously worked at <b>@FCC/FAC && @PUSH-PROTOCOL</b>
+- I am currently working as a Developer Engineering Intern <b>@Landbaseapp</b>.
+- Previously worked at <b>@Offstreetparking, @FCC/FAC && @PUSH-PROTOCOL</b>
 - I am a CS major freshman at University of Regina.
 - I am exploring `web3` and `LLMs` at the moment.
 - I am a developer and love to build interesting stuffs.
