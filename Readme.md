@@ -1,6 +1,6 @@
 ## Hello `@everyone` !
 ## I am Satyam Singh.
-- I am currently working as a Developer Engineering Intern <b>@Landbaseapp</b>.
+- I am currently working as a Developer Engineering Intern <b>@try-bree (YC 21)</b>.
 - Previously worked at <b>@Offstreetparking, @FCC/FAC && @PUSH-PROTOCOL</b>
 - I am a CS major freshman at University of Regina.
 - I am working on AI agents, games, and some goofy projects at the moment.
