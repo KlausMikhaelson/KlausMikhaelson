@@ -7,6 +7,6 @@
 - I am a developer and love to build interesting stuffs.
 - I mostly work as a full stack developer i.e. both frontend and backend.
 - I have experience of working with technologies like ML and web3.
-- I have been to 49 global hackathons and have won in 39 of them.
+- I have been to 51 global hackathons and have won in 41 of them.
 - I started learning to code from the last week of march so incase you wanna see my journey than you're on the right place ! go check it out !
 - If you want to work or collaborate with me than just shoot me a dm on twitter `@KlausCodes` or on discord `@_klausss` <br>
